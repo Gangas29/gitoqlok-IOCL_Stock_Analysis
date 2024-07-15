@@ -1,0 +1,88 @@
+{
+  "qInfo": {
+    "qId": "ymfpuM",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Year"
+    ],
+    "qFieldLabels": [
+      "Year"
+    ],
+    "qAlias": "Year",
+    "title": "Year",
+    "coloring": {
+      "changeHash": "0.36473589295852404",
+      "hasValueColors": true,
+      "colorMapRef": "ymfpuM"
+    }
+  },
+  "qMetaDef": {
+    "title": "Year",
+    "description": "",
+    "tags": []
+  },
+  "_ColorMapModel": {
+    "qInfo": {
+      "qId": "ColorMapModel_ymfpuM",
+      "qType": "ColorMap"
+    },
+    "qMeta": {
+      "_resourcetype": "app.object",
+      "_objecttype": "ColorMap",
+      "id": "ColorMapModel_ymfpuM",
+      "approved": false,
+      "published": false,
+      "ownerId": "667fbcb1c24ac92f00726e62",
+      "createdDate": "2024-07-12T18:15:30.274Z",
+      "modifiedDate": "2024-07-12T18:25:52.186Z"
+    },
+    "colorMap": {
+      "colors": [
+        {
+          "value": "2024",
+          "baseColor": {
+            "color": "#3C50E0",
+            "index": -1
+          }
+        },
+        {
+          "value": "2023",
+          "baseColor": {
+            "color": "#6577F3",
+            "index": -1
+          }
+        },
+        {
+          "value": "2021",
+          "baseColor": {
+            "color": "#80CAEE",
+            "index": -1
+          }
+        },
+        {
+          "value": "2022",
+          "baseColor": {
+            "color": "#0FADCF",
+            "index": -1
+          }
+        },
+        {
+          "value": "2020",
+          "baseColor": {
+            "color": "#E73F76",
+            "index": -1
+          }
+        }
+      ],
+      "nul": null,
+      "oth": null,
+      "pal": null,
+      "single": null,
+      "usePal": true,
+      "autoFill": true
+    }
+  }
+}

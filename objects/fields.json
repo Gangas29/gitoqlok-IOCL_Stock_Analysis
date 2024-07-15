@@ -1,0 +1,109 @@
+[
+  {
+    "qName": "Adj Close",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "in"
+    ]
+  },
+  {
+    "qName": "Close",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "in"
+    ]
+  },
+  {
+    "qName": "Date",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "in"
+    ]
+  },
+  {
+    "qName": "Day",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "in"
+    ]
+  },
+  {
+    "qName": "High",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "in"
+    ]
+  },
+  {
+    "qName": "Low",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "in"
+    ]
+  },
+  {
+    "qName": "Month",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "in"
+    ]
+  },
+  {
+    "qName": "Open",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "in"
+    ]
+  },
+  {
+    "qName": "Quarter",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "in"
+    ]
+  },
+  {
+    "qName": "Volume",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "in"
+    ]
+  },
+  {
+    "qName": "Year",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "in"
+    ]
+  }
+]
