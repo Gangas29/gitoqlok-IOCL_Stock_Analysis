@@ -6,7 +6,7 @@
     },
     "qMetaDef": {
       "title": "Sum of Open, Sum of Close, Sum of High and Sum of Low (1)",
-      "description": ""
+      "description": "This sheet will provide a comprehensive view of stock prices, including the day-wise, month-wise, quarter-wise, and year-wise sums of high, low, open, and close prices. This will allow users to analyze the price movements at different time scales and identify any patterns or trends."
     },
     "creationDate": "2024-07-11T13:33:25.895Z",
     "rank": 0,

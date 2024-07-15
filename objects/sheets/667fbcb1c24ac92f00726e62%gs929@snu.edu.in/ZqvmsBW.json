@@ -6,7 +6,7 @@
     },
     "qMetaDef": {
       "title": "Sum of Open, Sum of Close, Sum of High and Sum of Low",
-      "description": ""
+      "description": "Mirroring the functionality of the standard version, this sheet provides a concise and insightful analysis of the sum of high, low, open, and close prices on a quarterly basis, showcased through visually striking KPI visualizations. Users can effortlessly identify the highest and lowest values for each metric, as well as any notable changes from one quarter to another, all within the context of a sleek and sophisticated dark theme."
     },
     "creationDate": "2024-07-11T13:33:25.895Z",
     "rank": 1,
